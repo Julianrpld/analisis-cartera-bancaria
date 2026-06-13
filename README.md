@@ -45,7 +45,3 @@ Seis tablas relacionadas de una entidad bancaria:
 
 - Python (pandas, matplotlib, seaborn)
 - VS Code
-
-## Autor
-
-Julián — Economista en transición a Data Analytics
