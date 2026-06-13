@@ -1,0 +1,13 @@
+id_producto,nombre_producto,categoria,tasa_interes_pct,costo_fondeo_pct
+1,Préstamo Personal,Préstamos,8.5,2.1
+2,Préstamo Hipotecario,Hipotecas,3.2,0.8
+3,Préstamo Empresarial,Préstamos,6.8,1.9
+4,Tarjeta Crédito Básica,Tarjetas,22.0,4.5
+5,Tarjeta Crédito Premium,Tarjetas,18.0,3.8
+6,Cuenta Ahorro Estándar,Cuentas,0.5,0.1
+7,Cuenta Ahorro Premium,Cuentas,1.2,0.3
+8,Depósito a Plazo 12m,Depósitos,2.8,0.9
+9,Depósito a Plazo 24m,Depósitos,3.5,1.1
+10,Seguro de Vida,Seguros,15.0,6.0
+11,Seguro de Hogar,Seguros,12.0,5.2
+12,Fondo de Inversión,Inversiones,5.0,1.5
